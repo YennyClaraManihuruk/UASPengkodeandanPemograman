@@ -1,3 +1,12 @@
+**Soal: Analisis Penjualan Toko Buku**
+
+Anda memiliki dataset yang berisi informasi penjualan sebuah toko buku. Dataset tersebut terdiri dari empat kolom:
+
+Tanggal (format: YYYY-MM-DD): Tanggal penjualan buku.
+Nama_Buku: Nama buku yang terjual.
+Jumlah: Jumlah buku yang terjual.
+Pendapatan: Pendapatan dari penjualan buku tersebut.
+
 **Hasil dan Interpretasi Gambar**
 
 (Gambar 1)
